@@ -1,2 +1,2 @@
-# plaincash.github.io
-Website repository https://plain.cash
+# plain.cash
+Accounting solutions for websites.
